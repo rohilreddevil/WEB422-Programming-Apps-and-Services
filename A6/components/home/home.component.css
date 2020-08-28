@@ -1,0 +1,19 @@
+section { 
+    padding: 70px 0; 
+} 
+
+.no-margin { 
+    margin: 0; 
+    padding: 0; 
+} 
+
+div h1{
+  
+    font-weight: bolder;
+}
+
+div.carousel-content h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+
+}
